@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PrimeiroProjetoAndroid</string>
+    <string name="tituloActivity2">Login</string>
 </resources>
